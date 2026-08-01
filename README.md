@@ -1,0 +1,1 @@
+Edit only ideas.json.
